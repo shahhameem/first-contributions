@@ -12,6 +12,7 @@
 -Hello it's me Rockeky and warmly welcome to all of you.
 Thang Hei is here!
 - Hello, I am Philipp
+- Hello, I am Hameem Hussain Shah
 - Hey, I am Vishal, excited to get started (Y) 
 - Hi, I am Enkhbold Ganbold (Inky) https://github.com/enkhbold470
 - Hi, I am Aditya, excited to get started!
@@ -29,6 +30,7 @@ Hello, I'm [Hendrix Ejegi](https://github.com/hendrixejegi)
 - Hello world, its Rakshan
 - Hello, I'am Arshad Yasir
 - hi, ketan sharma
+hello open source world,Aarav this side from india . 
 - Hello, I'm Pannu. Let's keep going together. (https://github.com/PannuYN)
 -Hi, Chiranjeev was here!
 - Hello World, I'am Mapathé Ndiaye from Senegal
